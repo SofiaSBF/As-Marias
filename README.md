@@ -10,8 +10,8 @@ Atuei como desenvolvedora, junto com Hananda, Domingos e San. Cibele como P.O, J
 encontra nesse tipo de relacionamento, dá dicas sobre o que fazer para evitar, artigos, filmes, livros e sites úteis, dicas após o término, riquezas de detalhes desse tipo de relacionamento e impactos na saúde mental e no roadmap do projeto direcionaremos as pessoas para ajuda especializada. O Robô é construído no blip com uma arquitetura de Roteadores. <br>
 
 
-<h3>Link do Robô:<h3> https://projeto-letsbot-6y9eh.chat.blip.ai/?appKey=bWFyaWFzMTpiYTIzMzgyOS1jYzhlLTQxMWUtYmI1Ni02ODYyOGE1N2FkNDc=
-<h3>Link do Miro:<h3> https://miro.com/app/board/uXjVOScqipw=/?share_link_id=328307128883
+<b>Link do Robô:</b> https://projeto-letsbot-6y9eh.chat.blip.ai/?appKey=bWFyaWFzMTpiYTIzMzgyOS1jYzhlLTQxMWUtYmI1Ni02ODYyOGE1N2FkNDc= <br>
+<b>Link do Miro:</b> https://miro.com/app/board/uXjVOScqipw=/?share_link_id=328307128883<br>
 
 
 <h3>Participantes:<h3>
